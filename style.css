@@ -1,0 +1,39 @@
+.container1 {
+
+    position: relative;
+    top: 200px;
+    text-align: center;
+    align-items: center;
+
+}
+
+.botao {
+
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 35%;
+    width: max-content;
+    margin-top: 5px;
+    text-align: center;
+    border-radius: 8px;
+    height: 40px;
+    width: 70px;
+
+
+}
+
+.textinput {
+    position: relative;
+    width: 100px;
+    
+
+
+}
+
+ .texto1 {
+    width: 100%;
+    font-size: 30px;
+    
+}
